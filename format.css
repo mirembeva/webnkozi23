@@ -1,0 +1,33 @@
+.heading1{
+    color:red;
+    size:100px
+}
+
+.headingtwo{
+    color: purple;
+    size:50px;
+}
+
+.formating{
+    border: 5px solid green;
+}
+
+
+#shape{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    border-radius: 30px;
+
+}
+
+.mylinks{
+    display: flex;
+    list-style-type: none;
+    justify-content:space-around;
+}
+
+.tablediv{
+    display: flex;
+    justify-content: space-between;
+}
